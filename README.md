@@ -1,4 +1,3 @@
-# laurengroover.github.io
-Help the Earth
+# Help the Earth
 
 # TESTING
