@@ -2,6 +2,8 @@
 title: "Help the Earth"
 ---
 
+knitr::include_graphics("C://Users//Lauren//Desktop//QuandaryPeak.png")
+
 ```{css, echo=FALSE}
 body {
  color: blue;
