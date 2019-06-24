@@ -12,5 +12,5 @@ navbar:
       url : mailto:laurengroover@gmail.com
 output:
   html_document:
-    theme: paper
+    theme: Readable
     css: 'styles.css'
