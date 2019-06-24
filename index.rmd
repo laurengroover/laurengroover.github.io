@@ -2,4 +2,10 @@
 title: "Help the Earth"
 ---
 
-Hello, Humans!
+```{css, echo=FALSE}
+body {
+ color: blue;
+} 
+```
+
+  Hello, Humans!
