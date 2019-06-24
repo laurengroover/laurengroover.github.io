@@ -5,7 +5,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Help the Earth"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "Lauren G"
 description              : "Capstone Project"
 url                      : "https://helplaurenhelptheearth.com"
 repository               : "laurengroover/laurengroover.github.io"
@@ -26,7 +26,6 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
   location         : "Somewhere"
-  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
