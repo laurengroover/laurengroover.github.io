@@ -1,13 +1,13 @@
 ---
-title: "Help the Earth"
+title: "Website Under Construction"
 ---
-
-knitr::include_graphics("C://Users//Lauren//Desktop//QuandaryPeak.png")
 
 ```{css, echo=FALSE}
 body {
  color: blue;
 } 
 ```
-
-  Hello, Humans!
+  
+  This webpage is part of my honors capstone project! 
+  Research is underway. Stay tuned for Earth saving knowledge!
+  
