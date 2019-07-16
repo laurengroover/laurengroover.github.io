@@ -2,12 +2,7 @@
 title: "Website Under Construction"
 ---
 
-```{css, echo=FALSE}
-body {
- color: blue;
-} 
-```
-  
-  This webpage is part of my honors capstone project! 
   Research is underway. Stay tuned for Earth saving knowledge!
+  
+  To learn more about me, please visit the "About Me" tab
   
