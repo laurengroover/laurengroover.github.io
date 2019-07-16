@@ -1,8 +1,8 @@
 ---
-  title: "About Me"
+title: "About Me"
 ---
 
-Put Picture
+<img src="images/me.JPG" style="width:25%; border:2px solid; margin-right: 20px" align="left">
   
 Hi! My name is Lauren. I am a senior honors student at Kennesaw State University majoring in Computational and Applied Mathematics with a minor in Applied Data Analysis. I am set to graduate with honors in December 2019.
 
