@@ -9,7 +9,7 @@ navbar:
       href: about.html
   right:
     - icon: fa-envelope fa-lg
-      href: mailto:laurengroover@gmail.com
+      href: mailto:laurengroover23@gmail.com
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/lauren-groover-215960151/
 output:
