@@ -11,7 +11,7 @@ navbar:
     - icon: fa-envelope fa-lg
       href: mailto:laurengroover23@gmail.com
     - icon: fa-linkedin fa-lg
-      href: https://www.linkedin.com/in/lauren-groover-215960151/
+      href: https://www.linkedin.com/in/lauren-groover-215960151
 output:
   html_document:
     #theme: Readable
