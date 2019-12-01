@@ -3,7 +3,7 @@ title: "About Me"
 output: html_document
 ---
 
-<img src="images/me.JPG" style="width:30%; border:2px solid; margin-right: 20px" align="left">
+<img src="images/me.JPG" style="width:30%; border:2px solid; margin-right:20px" align="left">
   
 Hi! My name is Lauren Groover. I am a senior honors student at Kennesaw State University majoring in Computational and Applied Mathematics with a minor in Applied Statistics and Data Analysis. I am currently on track to graduate with honors in December 2019.
 
