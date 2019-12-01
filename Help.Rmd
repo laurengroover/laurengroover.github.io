@@ -2,27 +2,9 @@
 title: "What You Can Do"
 output: html_document
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-## R Markdown
-
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-```{r cars}
-summary(cars)
-```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+-	SPEAK FOR THE EARTH. The biggest way that you can make a difference is to be an influence on the people around you. Be the change that you want to see! Social scientists have found that when one person makes a sustainability-oriented decision, other people do too.
+-	Make your voice heard. Exercise your rights and urge local governments and companies to make the system-wide changes that are needed.
+-	Make your home more energy efficient to save energy (and money!). You can invest in energy efficient technology like LED light bulbs, sealing your doors, or a low flow showerhead. You can also do simple tasks such as unplugging unused electronics, washing laundry on cool setting, and taking shorter showers. It takes a lot of energy to pump and heat water! The average American already uses over 17 gallons of water during every shower.
+-	Start a compost pile (great project for kids!) [Compost Pile](http://www.planitdiy.com/inspiration/in-kids/a-compost-bin-project-for-the-kids/)
+-	Service your car. Maintaining your tire pressure and having a clean air filter can boost your MPGs, therefore saving on gas and cutting down on emissions. 
+-	Reduce waste. There are countless ways that you can reduce your daily waste! To name just a few: Use reusable grocery bags and coffee cups or water bottles, shop products with less packaging, meal prep, and cancel paper statements and other unnecessary mail subscriptions. Also instead of trashing your old belongings, donating your old clothes, toys, and furniture. 

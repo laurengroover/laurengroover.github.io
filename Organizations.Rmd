@@ -2,27 +2,27 @@
 title: "Organizations"
 output: html_document
 ---
+- United Nations Carbon Offset Platform:
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
-## R Markdown
+Offsetting is a climate action that allows individuals and organizations to support projects that reduce emissions somewhere else and compensate for the emissions they cannot avoid. You can buy CERs which are direct financial contributions to projects that continue reducing emissions and benefit the communities around them!
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+Click Here to Participate: [United Nations](https://offset.climateneutralnow.org/allprojects?specs=430)
 
-```{r cars}
-summary(cars)
-```
 
-## Including Plots
+- The Ocean Cleanup:
 
-You can also embed plots, for example:
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+The Ocean Cleanup develops advanced technologies to clean the ocean garbage patches. In full-scale deployment their system is estimated to clean up 50% of the Great Pacific Garbage Patch every 5 years!!
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+Click Here to Donate to [The Ocean Cleanup](https://theoceancleanup.com/donate/)
+
+
+- The Leonardo DiCaprio Foundation:
+
+
+The mission of the Leonardo DiCaprio Foundation is to protect all of Earth's inhabitants. The foundation supports projects around the world that builds climate resiliency, protects vulnerable wildlife, and restores balance to threatened ecosystems and communities.
+
+Click Here to Donate to the [Leonardo Dicaprio Foundation](https://donate.leonardodicaprio.org/give/215791/#!/donation/checkout)

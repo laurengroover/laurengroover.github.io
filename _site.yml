@@ -2,6 +2,7 @@
 output:
   html_document:
     theme: darkly
+    smart: true
     
 name: "Lauren G"
 output_dir: "."
