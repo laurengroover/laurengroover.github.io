@@ -1,10 +1,7 @@
 ---
-title: ""
+title: "Be Passionate About the Earth and the Science that Protects It"
 ---
 
-<img src="images/switzerland.JPG" style="width:50%; border:2px solid; margin-right: 20px" align="left">
+<img src="images/earth.JPG" style="width:75%; border:2px solid; margin-right: 20px" align="center">
 
-  Research is underway. Stay tuned for Earth saving knowledge!
-  
-  To learn more about me, please visit the "About Me" tab.
   
