@@ -1,5 +1,5 @@
 ---
-title: "Website Under Construction"
+title: ""
 ---
 
 <img src="images/switzerland.JPG" style="width:50%; border:2px solid; margin-right: 20px" align="left">

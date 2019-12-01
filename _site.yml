@@ -5,6 +5,14 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    - text: "Global Warming"
+      href: GlobalWarming.html
+    - text: "Resolutions"
+      href: Resolutions.html
+    - text: "What You Can Do"
+      href: Help.html
+    - text: "Organizations"
+      href: Organizations.html
     - text: "About Me"
       href: about.html
   right:
