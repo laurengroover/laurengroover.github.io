@@ -1,3 +1,8 @@
+---
+output:
+  html_document:
+    theme: darkly
+    
 name: "Lauren G"
 output_dir: "."
 navbar:
@@ -20,6 +25,4 @@ navbar:
       href: mailto:laurengroover23@gmail.com
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/lauren-groover-215960151
-output:
-  html_document:
-    theme: Slate
+---

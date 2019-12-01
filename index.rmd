@@ -1,11 +1,4 @@
----
-output:
-  html_document:
-    theme: slate
----
 
-[Global Warming](https://www.helplaurenhelptheearth.com/GlobalWarming.html) [Resolutions](https://www.helplaurenhelptheearth.com/Resolutions.html) [What You Can Do](https://www.helplaurenhelptheearth.com/Help.html) [Organizations](https://www.helplaurenhelptheearth.com/Organizations.html)
-
-<img src="images/earth.JPG" style="width:100%; border:2px solid; margin-right: 20px" align="center">
+<img src="images/earth.JPG" style="width:100%; margin-right: 20px" align="center">
 
   
