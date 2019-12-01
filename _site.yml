@@ -22,5 +22,4 @@ navbar:
       href: https://www.linkedin.com/in/lauren-groover-215960151
 output:
   html_document:
-    #theme: Readable
-    #css: 'styles.css'
+    theme: Slate

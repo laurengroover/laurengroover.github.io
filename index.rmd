@@ -1,7 +1,11 @@
 ---
-title: "Be Passionate About the Earth and the Science that Protects It"
+output:
+  html_document:
+    theme: slate
 ---
 
-<img src="images/earth.JPG" style="width:75%; border:2px solid; margin-right: 20px" align="center">
+[Global Warming](https://www.helplaurenhelptheearth.com/GlobalWarming.html) [Resolutions](https://www.helplaurenhelptheearth.com/Resolutions.html) [What You Can Do](https://www.helplaurenhelptheearth.com/Help.html) [Organizations](https://www.helplaurenhelptheearth.com/Organizations.html)
+
+<img src="images/earth.JPG" style="width:100%; border:2px solid; margin-right: 20px" align="center">
 
   
