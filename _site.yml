@@ -3,7 +3,7 @@ output:
   html_document:
     theme: darkly
     smart: true
-    
+runtime: shiny
 name: "Lauren G"
 output_dir: "."
 navbar:
