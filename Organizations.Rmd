@@ -2,7 +2,7 @@
 title: "Organizations"
 output: html_document
 ---
-**United Nations Carbon Offset Platform:**
+### United Nations Carbon Offset Platform: {-}
 
 
 Offsetting is a climate action that allows individuals and organizations to support projects that reduce emissions somewhere else and compensate for the emissions they cannot avoid. You can buy CERs which are direct financial contributions to projects that continue reducing emissions and benefit the communities around them!
@@ -11,7 +11,7 @@ Offsetting is a climate action that allows individuals and organizations to supp
 Click Here to Participate: [United Nations](https://offset.climateneutralnow.org/allprojects?specs=430)
 
 
-**The Ocean Cleanup:**
+### The Ocean Cleanup: {-}
 
 
 The Ocean Cleanup develops advanced technologies to clean the ocean garbage patches. In full-scale deployment their system is estimated to clean up 50% of the Great Pacific Garbage Patch every 5 years!!
@@ -20,7 +20,7 @@ The Ocean Cleanup develops advanced technologies to clean the ocean garbage patc
 Click Here to Donate to [The Ocean Cleanup](https://theoceancleanup.com/donate/)
 
 
-# The Leonardo DiCaprio Foundation: {-}
+### The Leonardo DiCaprio Foundation: {-}
 
 
 The mission of the Leonardo DiCaprio Foundation is to protect all of Earth's inhabitants. The foundation supports projects around the world that builds climate resiliency, protects vulnerable wildlife, and restores balance to threatened ecosystems and communities.

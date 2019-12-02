@@ -3,6 +3,29 @@ title: "Global Warming"
 output: html_document
 ---
 
+#### **The Earth is warming up.** 
+
+According to the National Oceanic and Atmospheric (NOAA), the planet's average surface temperature has risen about 1.62 degrees Fahrenheit since the late 19th century, and the five warmest years on record have all been within the past 9 years. There is substantial evidence that carbon dioxide (CO^~2~) warms the planet, and the amount in the air has increased by nearly half, mostly since the 1960s.
+
+
+One of the main contributers to CO^~2~ being emitted is burning fossil fuels. Fossil fuels are non-renewable energy resources such as coal, oil and natural gas. CO^~2~ and other greenhouse gases warm the planet by absorbing the sun’s energy and preventing heat from escaping back into space.
+
+**Ninety-seven percent of climate scientists agree that the rise in CO^~2~ levels and temperature is due to human activity!**
+
+In the United States, power plants create the most human-caused greenhouse gas emissions, followed by all forms of transportation. Currently, 40 billion tons of CO^~2~ from burning fossil fuels from around the world are being added to the atmosphere every year. Forests only soak up about 30% of all human CO^~2~ emissions, while most CO^~2~ builds up in the atmosphere, trapping heat for hundreds of years. 
+
+
+#### Why does it matter if the Earth’s surface temperature is rising?
+
+
+*running statistical analysis on each*
+-	Severe weather 
+-	Ice Caps melting 
+-	Ocean rise – what rising water levels can cause
+-	Trash – plastics, fishing nets, landfills, etc
+-	Species - extinction rates   
+
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
