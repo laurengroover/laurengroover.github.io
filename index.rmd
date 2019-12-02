@@ -2,6 +2,6 @@
              
              
              
-<img src="images/earth.JPG" style="margin-top:2px; margin-bottom:0px; margin-right:0px; margin-left:0px;">
+<img src="images/earth.JPG" style="margin-top:3px; margin-bottom:0px; margin-right:0px; margin-left:0px;">
 
   
