@@ -5,17 +5,17 @@ output: html_document
 ##
 ##
 ##
-#### Power Plants
+####Power Plants
 Many power plants need to shut down and new power plants should not be built. About 33% of total U.S. energy-related CO2 emissions in 2018 were caused by the U.S. electric power sector!
 
 
-#### Plant Trees
+####Plant Trees
 Trees absorb carbon dioxide in the atmosphere and release oxygen. A study by researchers at Eidgenossische Technische Hochschule (ETH) Zurich in Switzerland, one of the world's leading universities in science and technology, stated that forest restoration is the best climate change solution available today. Increasing the forests by an area the size of the United States would cut atmospheric carbon dioxide 25 percent!
 
 
-#### Clean The Air
+####Clean The Air
 Deploy technologies that capture CO~2~ on a massive scale, such as the carbon capture & storage association. 
 
 
-#### Renewable Resources
+####Renewable Resources
 Replace fossil fuels with renewable and cleaner sources of energy, such as wind and sun.
