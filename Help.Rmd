@@ -5,7 +5,7 @@ output: html_document
 ##
 ##
 ##
-#### Speak For the Earth
+#### Speak For The Earth
 
 The biggest way that you can make a difference is to be an influence on the people around you. Be the change that you want to see! Social scientists have found that when one person makes a sustainability-oriented decision, other people do too. You can also exercise your rights and urge local governments and companies to make the system-wide changes that are needed.
 
@@ -26,4 +26,4 @@ Tasks as simple as maintaining your tire pressure and having a clean air filter 
 
 #### Reduce Waste
 
-There are countless ways that you can reduce your daily waste! To name just a few: Use reusable grocery bags, coffee cups, and water bottles. Shop products with less packaging. Meal prep. Cancel paper statements and other unnecessary mail subscriptions. And, instead of trashing your old belongings, donate your old clothes, toys, and furniture. Thrifting is recycling and reduces pollution and waste. 
+There are countless ways that you can reduce your daily waste! To name just a few: Use reusable grocery bags, coffee cups, and water bottles. Shop products with less packaging. Meal prep. Cancel paper statements and other unnecessary mail subscriptions. And, instead of trashing your old belongings, donate your old clothes, toys, and furniture. **Thrifting is recycling** and reduces pollution and waste!
