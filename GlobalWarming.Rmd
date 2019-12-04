@@ -7,34 +7,19 @@ output: html_document
 ##
 #### **The Earth is warming up.** 
 
-According to the National Oceanic and Atmospheric (NOAA), the planet's average surface temperature has risen about 1.62 degrees Fahrenheit since the late 19th century, and the five warmest years on record have all been within the past 9 years. There is substantial evidence that carbon dioxide (CO~2~) warms the planet, and the amount in the air has increased by nearly half, mostly since the 1960s.
+According to the National Oceanic and Atmospheric (NOAA), the planet's average surface temperature has risen about 1.62 degrees Fahrenheit since the late 19th century, and the five warmest years on record have all been within the past 9 years. There is substantial evidence that carbon dioxide (CO~2~) warms the planet, and the amount in the air has increased by nearly half, with the sharpest increase beginning in the 1960's. 
 
-<img src="images/carbondioxide.JPG" style="width:30%" align=middle>
+<img src="images/CarbonDioxideLevels.JPG" style="width:30%" align=middle>
 
-Burning fossil fuels are a main contributer to CO~2~ being emitted to the atmosphere. Fossil fuels are non-renewable energy resources such as coal, oil and natural gas. CO~2~ and other greenhouse gases warm the planet by absorbing the sun's energy and preventing heat from escaping back into space.
+CO~2~ is a harmful gas that pollutes the air we breathe. Burning fossil fuels are a main contributor to CO~2~ being emitted to the atmosphere. Fossil fuels are non-renewable energy resources such as coal, oil and natural gas. CO~2~ and other greenhouse gases warm the planet by absorbing the sun's energy and preventing heat from escaping back into space.
 
 **Ninety-seven percent of climate scientists agree that the rise in CO~2~ levels and temperature is due to human activity!**
 
 The Earth has historically gone through phases of temperature change. However, it is the **current rate at which the Earth is warming that is alarming.** In the United States, power plants create the most human-caused greenhouse gas emissions, followed by all forms of transportation. Currently, 40 billion tons of CO~2~ from burning fossil fuels from around the world are being added to the atmosphere every year. Forests only soak up about 30% of all human CO~2~ emissions, while most CO~2~ builds up in the atmosphere, trapping heat for hundreds of years. 
 
 
-explain these issues in a paragraph or so.
+Nearly 5 million deaths each year are attributed to air pollution, a mixture of smoke and harmful gases like carbon dioxide that enter the air. Air pollution is a huge risk factor and can cause or worsen medical problems such as heart disease, stroke, respiratory infections, lung cancer, and diabetes.
 
-#####Air pollution is responsible for 5 million deaths each year
+Global warming is increasing the likelihood of extreme weather. Warmer temperatures mean an increase in water evaporation from the ground which leads to droughts. The abundance of water goes into the atmosphere and later causes severe rainfall. The ocean temperatures are also warming up which greatly affects the frequency and intensity of hurricanes.
 
-
-#####Severe weather 
-
-
-#####Ice Caps melting 
-
-
-#####Ocean rise (what rising water levels can cause)
-
-
-#####Species (extinction rates)   
-
-#### Are Humans Really Causing All This?
-Statistic analysis on how humans are likely a major cause of this sudden temperature rise:
-
-
+The NOAA states that sea levels rise about one-eighth of an inch every year. This is because water expands with rising temperatures and the ice caps are melting at a rapid pace, as seen in the photos below. Rising sea levels cause coastal storms to go farther inland and severe flooding. Flooding is already the most destructive natural disaster in the United States.
