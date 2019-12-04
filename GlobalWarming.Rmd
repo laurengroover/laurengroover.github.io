@@ -17,7 +17,7 @@ CO~2~ is a harmful gas that pollutes the air we breathe. Burning fossil fuels ar
 
 The Earth has historically gone through phases of temperature change. However, it is the **current rate at which the Earth is warming that is alarming.** In the United States, power plants create the most human-caused greenhouse gas emissions, followed by all forms of transportation. Currently, 40 billion tons of CO~2~ from burning fossil fuels from around the world are being added to the atmosphere every year. Forests only soak up about 30% of all human CO~2~ emissions, while most CO~2~ builds up in the atmosphere, trapping heat for hundreds of years. 
 
-<img src="images/Temperature.JPG" align=middle>
+<img src="images/Temperature.JPG" style="width:90%" align=middle>
 
 Nearly 5 million deaths each year are attributed to air pollution, a mixture of smoke and harmful gases like carbon dioxide that enter the air. Air pollution is a huge risk factor and can cause or worsen medical problems such as heart disease, stroke, respiratory infections, lung cancer, and diabetes.
 
@@ -34,7 +34,7 @@ The NOAA states that sea levels rise about one-eighth of an inch every year. Thi
 
 Are humans really to blame?
 
-Yes. 
+According to the data, human activity is highly correlated to global warming concerns.
 
 I gathered data from several sources and ran a statistical analysis to see if human factors could predict a rise in CO2 levels, land and ocean temperatures, or changes in sea ice spatial extent. The human factors used in the analysis were using oil for energy (1979-2017), using coal for energy (1979-2017), and the number of cars manufactured per year (1999-2019).
 
