@@ -23,7 +23,7 @@ Nearly 5 million deaths each year are attributed to air pollution, a mixture of 
 
 Global warming is increasing the likelihood of extreme weather. Warmer temperatures mean an increase in water evaporation from the ground which leads to droughts. The abundance of water goes into the atmosphere and later causes severe rainfall. The ocean temperatures are also warming up which greatly affects the frequency and intensity of hurricanes.
 
-<div style="width:image width px; font-size:80%; text-align:center;"><img src="images/storms.JPG" align=middle style="padding-bottom:0.5em; width:80%;" />View of Hurricanes from Space. Photo Courtesy of NASA.</div>>
+<div style="width:image width px; font-size:80%; text-align:center;"><img src="images/storms.JPG" align=middle style="padding-bottom:0.5em; width:80%; height:80%" />View of Hurricanes from Space. Photo Courtesy of NASA.</div>>
 
 The NOAA states that sea levels rise about one-eighth of an inch every year. This is because water expands with rising temperatures and the ice caps are melting at a rapid pace, as seen in the photos below. Rising sea levels cause coastal storms to go farther inland and severe flooding. Flooding is already the most destructive natural disaster in the United States.
 
