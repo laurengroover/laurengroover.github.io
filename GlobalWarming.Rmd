@@ -30,3 +30,15 @@ The NOAA states that sea levels rise about one-eighth of an inch every year. Thi
 <div style="width:image width px; font-size:80%; text-align:center;"><img src="images/1984icecap.JPG" align=middle style="padding-bottom:0.5em;" />Ice Cap 1984. Photo Courtesy of NASA.</div>>
 
 <div style="width:image width px; font-size:80%; text-align:center;"><img src="images/2012icecap.JPG" align=middle style="padding-bottom:0.5em;" />Ice Cap 2012. Photo Courtesy of NASA.</div>>
+
+Are humans really to blame?
+
+Yes. 
+
+I gathered data from several sources and ran a statistical analysis to see if human factors could predict a rise in CO2 levels, land and ocean temperatures, or changes in sea ice spatial extent. The human factors used in the analysis were using oil for energy (1979-2017), using coal for energy (1979-2017), and the number of cars manufactured per year (1999-2019).
+
+Every model created proved to be statistically significant. In other words, there is a substantial relationship between the human factors (oil use, coal use, and production of cars) and signs of global warming. All three factors predicted a decrease in sea ice extent, an increase in CO2 levels, and an increase in land and ocean temperatures.
+
+Overall, 10 out of the 12 models created were able to explain over 70% of the variation in the global warming concerns. The use of oil appeared to be the greatest contributor. In the most significant model, oil explained about 97% of the variation in ocean temperatures. The production of cars was still a significant predictor but not as much so as oil and coal. Even in the worst model, the production of cars explained about 57% of the variation in sea ice extent. 
+
+Data was gathered from the NOAA, NASA, [OICA](http://www.oica.net/), and [Global Energy Monitor](https://globalenergymonitor.org/coal/global-coal-plant-tracker/). 
