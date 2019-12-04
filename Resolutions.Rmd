@@ -6,7 +6,7 @@ output: html_document
 ##
 ##
 ####Power Plants
-Many power plants need to shut down and new power plants should not be built. About 33% of total U.S. energy-related CO2 emissions in 2018 were caused by the U.S. electric power sector!
+Many power plants need to shut down and new power plants should not be built. About 33% of total U.S. energy-related CO~2~ emissions in 2018 were caused by the U.S. electric power sector. A 1000MW coal fired power plant burns over **10000 lbs of coal per mintue** to provide power. As of 2018, the power plants around the world have a combined total of 2,024,100MW. This number has been increasing since before the 1990's, but thankfully is predicted to go down within the next 5 years. 
 
 
 ####Plant Trees
@@ -14,8 +14,10 @@ Trees absorb carbon dioxide in the atmosphere and release oxygen. A study by res
 
 
 ####Clean The Air
-Deploy technologies that capture CO~2~ on a massive scale, such as the carbon capture & storage association. 
+Deploy technologies that capture CO~2~ on a massive scale straight from power plants. We have the technology to not only capture CO~2~ from the source before it enters the atmosphere, but also to suck CO~2~ and other harmful gases out of the air. One company, the Carbon Capture & Storage Association (CSS^a), does exactly that. 
+Read more about what they do here: [Carbon Capture & Storage Association](http://www.ccsassociation.org/)
 
 
 ####Renewable Resources
-Replace fossil fuels with renewable and cleaner sources of energy, such as wind and sun.
+Replace fossil fuels with renewable and cleaner sources of energy, such as wind and solar, called green energy. Generating energy from renewable resources produces zero greenhouse gas emissions. Using clean energy and carbon capture technologies will significantly reduce the harmful gases in the atmosphere. Other than environmental benefits, using green energy can result in personal or business tax incentives.
+The Environmental Protection Agency (EPA) provides [guides to purchase green energy](https://www.epa.gov/greenpower/guide-purchasing-green-power).

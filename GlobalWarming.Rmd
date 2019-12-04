@@ -18,8 +18,6 @@ Burning fossil fuels are a main contributer to CO~2~ being emitted to the atmosp
 The Earth has historically gone through phases of temperature change. However, it is the **current rate at which the Earth is warming that is alarming.** In the United States, power plants create the most human-caused greenhouse gas emissions, followed by all forms of transportation. Currently, 40 billion tons of CO~2~ from burning fossil fuels from around the world are being added to the atmosphere every year. Forests only soak up about 30% of all human CO~2~ emissions, while most CO~2~ builds up in the atmosphere, trapping heat for hundreds of years. 
 
 
-#### Why Does It Matter If The Surface Temperature Is Rising?
-
 explain these issues in a paragraph or so.
 
 #####Air pollution is responsible for 5 million deaths each year
@@ -39,4 +37,4 @@ explain these issues in a paragraph or so.
 #### Are Humans Really Causing All This?
 Statistic analysis on how humans are likely a major cause of this sudden temperature rise:
 
-A 1000MW coal fired power plant burns over **5000 lbs of coal per mintue** to provide power.
+
