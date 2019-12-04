@@ -17,7 +17,7 @@ CO~2~ is a harmful gas that pollutes the air we breathe. Burning fossil fuels ar
 
 The Earth has historically gone through phases of temperature change. However, it is the **current rate at which the Earth is warming that is alarming.** In the United States, power plants create the most human-caused greenhouse gas emissions, followed by all forms of transportation. Currently, 40 billion tons of CO~2~ from burning fossil fuels from around the world are being added to the atmosphere every year. Forests only soak up about 30% of all human CO~2~ emissions, while most CO~2~ builds up in the atmosphere, trapping heat for hundreds of years. 
 
-<img src="images/Temperature.JPG" style="width:90%" align=middle>
+<div style="width:image width px; font-size:80%; text-align:center;"><img src="images/Temperature.JPG" align=middle style="padding-bottom:0.5em;" />Rise in temperature</div>>
 
 Nearly 5 million deaths each year are attributed to air pollution, a mixture of smoke and harmful gases like carbon dioxide that enter the air. Air pollution is a huge risk factor and can cause or worsen medical problems such as heart disease, stroke, respiratory infections, lung cancer, and diabetes.
 
