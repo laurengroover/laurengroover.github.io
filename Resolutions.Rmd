@@ -7,7 +7,7 @@ output: html_document
 ##
 #### Power Plants
 
-Many power plants need to shut down and new power plants should not be built. About 33% of total U.S. energy-related CO~2~ emissions in 2018 were caused by the U.S. electric power sector. A 1000MW coal fired power plant burns over **10000 lbs. of coal per minute** to provide power. As of 2018, the power plants around the world have a combined total of 2,024,100MW. This number has been increasing since before the 1990's, but thankfully is predicted to go down within the next 5 years. 
+Many power plants need to shut down and new power plants should not be built. About 33% of total U.S. energy-related CO~2~ emissions in 2018 were caused by the U.S. electric power sector. A 1000 Megawatt (MW) coal fired power plant burns over **10000 lbs. of coal per minute** to provide power. As of 2018, the power plants around the world have a combined total of 2,024,100MW. This number has been increasing since before the 1990's, but thankfully is predicted to go down within the next 5 years. 
 
 
 #### Plant Trees
